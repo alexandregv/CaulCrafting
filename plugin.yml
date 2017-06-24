@@ -1,0 +1,7 @@
+main: fr.dadcraft.caulcrafting.CaulCrafting
+version: 1.1.1
+name: CaulCrafting
+author: Slaymd
+commands:
+  caulcrafting:
+    description: Commandes relative a CaulCrafting

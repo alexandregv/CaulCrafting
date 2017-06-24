@@ -1,0 +1,24 @@
+#  '''''''''''''''''''''''''''''''''''''''''''
+#  '                  CRAFT                  '
+#  '''''''''''''''''''''''''''''''''''''''''''
+'1':
+  craft:
+  - SANDSTONE
+  - SAND
+  result: ENDER_STONE
+'2':
+  craft:
+  - BROWN_MUSHROOM
+  - RED_MUSHROOM
+  - BOWL
+  result: MUSHROOM_SOUP
+'3':
+  craft:
+  - FLINT
+  - COBBLESTONE
+  result: COAL
+'4':
+  craft:
+  - DIRT
+  - STONE
+  result: GRASS
